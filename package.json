@@ -1,0 +1,16 @@
+{
+  "name": "fsbaidu",
+  "version": "1.0.0",
+  "description": "locale search engine",
+  "main": "receiver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jacksing",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^1.4.3",
+    "open": "0.0.5",
+    "request": "^2.72.0"
+  }
+}
